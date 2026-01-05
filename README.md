@@ -18,7 +18,7 @@ This is a frontend clone of the official BMW homepage, built using HTML and CSS.
 ## 🚀 How to Run
 
 1. Download or clone the repository:  
-   `git clone https://github.com/Prakruthi-G-H/BMW-Homepage-Clone.git`
+   `git clone https://github.com/Prakruthi-G-H/bmw-homepage-clone.git`
 
 2. Open the folder in any browser or use Live Server in VS Code  
 3. Open `Project.html` to view the homepage  
