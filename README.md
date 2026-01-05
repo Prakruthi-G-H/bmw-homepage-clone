@@ -12,7 +12,7 @@ This is a frontend clone of the official BMW homepage, built using HTML and CSS.
 - `/images` → Contains all images  
 - `/videos` → Contains video files  
 - `Project.html` → Main frontend HTML structure  
-- `Project.css` → Styling for layout and elements  
+- `style.css` → Styling for layout and elements  
 - `README.md` → Project documentation
 
 ## 🚀 How to Run
