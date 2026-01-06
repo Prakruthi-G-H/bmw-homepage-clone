@@ -8,7 +8,7 @@ The goal of this project is to practice real-world website layout cloning, impro
 ## 🛠️ Tech Stack Used
 
 - HTML5  – Page structure
-- CSS3
+- CSS3  – Styling, layout, responsiveness
 
 ## ✨ Features
 
