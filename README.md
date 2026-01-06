@@ -1,6 +1,9 @@
 # BMW Homepage Clone 🚗
 
-This is a frontend clone of the official BMW homepage, built using HTML and CSS. The purpose of this project is to demonstrate frontend development skills using clean code, responsive layouts, and proper project structuring.
+A responsive frontend clone of the official BMW homepage, built using HTML5 and CSS3.
+This project showcases clean UI design, structured code, and modern frontend layout techniques.
+
+The goal of this project is to practice real-world website layout cloning, improve CSS styling skills, and demonstrate frontend fundamentals through a branded UI.
 
 ## 🛠️ Tech Stack Used
 
