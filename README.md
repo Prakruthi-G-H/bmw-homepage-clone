@@ -12,6 +12,8 @@ The goal of this project is to practice real-world website layout cloning, impro
 
 ## ✨ Features
 
+- Clean and modern UI inspired by BMW’s official website
+
 ## 📁 Project Structure
 
 - `/images` → Contains all images  
