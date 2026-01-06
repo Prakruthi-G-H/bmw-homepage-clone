@@ -10,6 +10,8 @@ The goal of this project is to practice real-world website layout cloning, impro
 - HTML5  
 - CSS3
 
+## ✨ Features
+
 ## 📁 Project Structure
 
 - `/images` → Contains all images  
