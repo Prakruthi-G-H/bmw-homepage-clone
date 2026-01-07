@@ -36,6 +36,8 @@ The goal of this project is to practice real-world website layout cloning, impro
 
 ## 🎯 Learning Outcomes
 
+- Improved HTML semantic structure
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
