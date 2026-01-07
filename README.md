@@ -34,6 +34,8 @@ The goal of this project is to practice real-world website layout cloning, impro
 3. Open `index.html` to view the homepage  
 4. No backend or server setup required
 
+## 🎯 Learning Outcomes
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
