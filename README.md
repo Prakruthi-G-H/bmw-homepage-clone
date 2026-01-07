@@ -38,6 +38,7 @@ The goal of this project is to practice real-world website layout cloning, impro
 
 - Improved HTML semantic structure
 - Better understanding of CSS layouts and positioning
+- Hands-on experience with real website cloning
 
 ## 👩‍💻 Developed by
 
