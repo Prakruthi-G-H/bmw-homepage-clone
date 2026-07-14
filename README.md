@@ -32,9 +32,9 @@ The primary objective of this project was to strengthen HTML and CSS skills by r
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/bmw-homepage-clone.git`
 
-2. Open the folder in any browser or use Live Server in VS Code  
-3. Open `index.html` to view the homepage  
-4. No backend or server setup required
+2. Open the project folder in Visual Studio Code.
+3. Open `index.html` directly in a web browser, or use the Live Server extension.
+4. No installation or backend setup is required.
 
 ## 🎯 Learning Outcomes
 
