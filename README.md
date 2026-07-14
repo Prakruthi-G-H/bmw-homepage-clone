@@ -44,7 +44,7 @@ The primary objective of this project was to strengthen HTML and CSS skills by r
 - Gained experience in recreating real-world website interfaces
 - Enhanced frontend development and UI design skills
 
-## 👩‍💻 Developed By
+## 👩‍💻 Author
 
 **Prakruthi G H**  
 📍 Bangalore, India  
