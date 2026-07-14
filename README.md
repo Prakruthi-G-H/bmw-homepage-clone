@@ -38,10 +38,11 @@ The primary objective of this project was to strengthen HTML and CSS skills by r
 
 ## 🎯 Learning Outcomes
 
-- Improved HTML semantic structure
-- Better understanding of CSS layouts and positioning
-- Hands-on experience with real website cloning
-- Confidence in building static frontend projects
+- Built responsive web layouts using HTML5 and CSS3
+- Improved understanding of semantic HTML elements
+- Practiced Flexbox and CSS positioning techniques
+- Gained experience in recreating real-world website interfaces
+- Enhanced frontend development and UI design skills
 
 ## 👩‍💻 Developed By
 
