@@ -12,10 +12,12 @@ The primary objective of this project was to strengthen HTML and CSS skills by r
   
 ## ✨ Features
 
-- Clean and modern UI inspired by BMW’s official website
-- Well-structured HTML & CSS
-- Organized assets (images & videos)
-- No external frameworks used
+- Responsive homepage layout
+- Modern UI inspired by the official BMW website
+- Semantic HTML structure
+- Clean and organized CSS
+- Image and video asset integration
+- No external libraries or frameworks used
 
 ## 📁 Project Structure
 
