@@ -7,9 +7,9 @@ The primary objective of this project was to strengthen HTML and CSS skills by r
 
 ## 🛠️ Tech Stack Used
 
-- HTML5  – Page structure
-- CSS3  – Styling, layout, responsiveness
-
+- HTML5 – Semantic page structure
+- CSS3 – Styling, Flexbox, Grid, Responsive Design
+  
 ## ✨ Features
 
 - Clean and modern UI inspired by BMW’s official website
