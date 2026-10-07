@@ -8,7 +8,7 @@ The project focuses on responsive design, semantic HTML, CSS Flexbox, CSS Grid, 
 
 ## 🛠️ Tech Stack Used
 
-- HTML5 – Semantic page structure
+- HTML5 – Semantic structure and page content
 - CSS3 – Styling, Flexbox, Grid, Responsive Design
 - Git & GitHub – Version control and project hosting
   
