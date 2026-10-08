@@ -18,7 +18,7 @@ The project focuses on responsive design, semantic HTML, CSS Flexbox, CSS Grid, 
 - 🚗 BMW-inspired modern automotive design
 - 🧩 Semantic HTML structure
 - 📐 CSS Flexbox and Grid layouts
-- Image and video asset integration
+- 🎨 Custom CSS styling
 - No external libraries or frameworks used
 
 ## 📁 Project Structure
