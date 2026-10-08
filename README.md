@@ -22,6 +22,7 @@ The project focuses on responsive design, semantic HTML, CSS Flexbox, CSS Grid, 
 - 🖼️ Image integration
 - 🎥 Video integration
 - 💻 Desktop and mobile-friendly layout
+- 📂 Organized project structure
 
 ## 📁 Project Structure
 
