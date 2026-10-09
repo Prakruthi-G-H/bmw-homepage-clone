@@ -34,6 +34,7 @@ bmw-homepage-clone/
 │   └── Website images and assets
 │
 ├── vedios/
+│   └── Video assets
 
 - `/images` → Contains all images  
 - `/videos` → Contains video files  
