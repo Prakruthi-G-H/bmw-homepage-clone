@@ -31,6 +31,7 @@ The project focuses on responsive design, semantic HTML, CSS Flexbox, CSS Grid, 
 bmw-homepage-clone/
 │
 ├── images/
+│   └── Website images and assets
 
 - `/images` → Contains all images  
 - `/videos` → Contains video files  
