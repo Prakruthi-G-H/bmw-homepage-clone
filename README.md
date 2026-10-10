@@ -40,11 +40,6 @@ bmw-homepage-clone/
 ├── style.css
 └── README.md
 ```
-- `/images` → Contains all images  
-- `/videos` → Contains video files  
-- `index.html` → Main frontend HTML structure  
-- `style.css` → Styling for layout and elements  
-- `README.md` → Project documentation
 
 ## 🚀 How to Run
 
