@@ -37,6 +37,7 @@ bmw-homepage-clone/
 │   └── Video assets
 │
 ├── index.html
+├── style.css
 
 - `/images` → Contains all images  
 - `/videos` → Contains video files  
