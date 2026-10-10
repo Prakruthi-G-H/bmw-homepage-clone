@@ -1,4 +1,4 @@
-# 🚗 BMW Homepage Clone (Frontend Project)
+  # 🚗 BMW Homepage Clone (Frontend Project)
 
 A responsive BMW-inspired homepage clone built using HTML5 and CSS3. This project was created to practice and strengthen frontend development skills by recreating a modern automotive website layout from scratch.
 
@@ -35,6 +35,7 @@ bmw-homepage-clone/
 │
 ├── vedios/
 │   └── Video assets
+│
 
 - `/images` → Contains all images  
 - `/videos` → Contains video files  
