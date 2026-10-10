@@ -38,6 +38,7 @@ bmw-homepage-clone/
 │
 ├── index.html
 ├── style.css
+└── README.md
 
 - `/images` → Contains all images  
 - `/videos` → Contains video files  
