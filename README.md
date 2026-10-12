@@ -41,7 +41,7 @@ bmw-homepage-clone/
 └── README.md
 ```
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/bmw-homepage-clone.git`
