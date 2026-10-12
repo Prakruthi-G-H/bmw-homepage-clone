@@ -47,8 +47,10 @@ bmw-homepage-clone/
   `git clone https://github.com/Prakruthi-G-H/bmw-homepage-clone.git`
 
 2. Open the project
-3. Open `index.html` directly in a web browser, or use the Live Server extension.
-4. No installation or backend setup is required.
+   Open the project folder in Visual Studio Code.
+   
+4. Open `index.html` directly in a web browser, or use the Live Server extension.
+5. No installation or backend setup is required.
 
 ## 🎯 Learning Outcomes
 
