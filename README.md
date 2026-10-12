@@ -43,7 +43,7 @@ bmw-homepage-clone/
 
 ## 🚀 How to Run Locally
 
-1. Download or clone the repository:  
+1. Clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/bmw-homepage-clone.git`
 
 2. Open the project folder in Visual Studio Code.
