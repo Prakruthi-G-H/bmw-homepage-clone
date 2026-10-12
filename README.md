@@ -48,7 +48,7 @@ bmw-homepage-clone/
 
 2. Open the project
    Open the project folder in Visual Studio Code.
-   
+3. Run the website  
 4. Open `index.html` directly in a web browser, or use the Live Server extension.
 5. No installation or backend setup is required.
 
