@@ -28,13 +28,8 @@ The project focuses on responsive design, semantic HTML, CSS Flexbox, CSS Grid, 
 
 ```bash
 bmw-homepage-clone/
-│
 ├── images/
-│   └── Website images and assets
-│
 ├── vedios/
-│   └── Video assets
-│
 ├── index.html
 ├── style.css
 └── README.md
