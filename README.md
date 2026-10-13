@@ -54,7 +54,7 @@ bmw-homepage-clone/
 
 ## 🎯 Learning Outcomes
 Through this project, I practiced and improved my understanding of:
-- Built responsive web layouts using HTML5 and CSS3
+- Building webpages using semantic HTML5
 - Improved understanding of semantic HTML elements
 - Practiced Flexbox and CSS positioning techniques
 - Gained experience in recreating real-world website interfaces
