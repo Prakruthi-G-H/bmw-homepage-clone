@@ -62,6 +62,7 @@ Through this project, I practiced and improved my understanding of:
 - Enhanced frontend development and UI design skills
 
 ## 💡 Purpose of the Project
+This project was developed as a frontend learning and practice project to improve my ability to translate a real-world website design into a functional, responsive webpage using HTML and CSS.
 
 ## 👩‍💻 Author
 
