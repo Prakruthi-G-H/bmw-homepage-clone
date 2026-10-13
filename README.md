@@ -61,6 +61,8 @@ Through this project, I practiced and improved my understanding of:
 - Gained experience in recreating real-world website interfaces
 - Enhanced frontend development and UI design skills
 
+## 💡 Purpose of the Project
+
 ## 👩‍💻 Author
 
 **Prakruthi G H**  
