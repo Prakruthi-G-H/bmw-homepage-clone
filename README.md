@@ -53,7 +53,7 @@ bmw-homepage-clone/
    No backend, database, or additional installation is required
 
 ## 🎯 Learning Outcomes
-
+Through this project, I practiced and improved my understanding of:
 - Built responsive web layouts using HTML5 and CSS3
 - Improved understanding of semantic HTML elements
 - Practiced Flexbox and CSS positioning techniques
