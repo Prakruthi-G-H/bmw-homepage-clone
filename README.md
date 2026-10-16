@@ -51,6 +51,7 @@ Through this project, I practiced and improved my understanding of:
 - Building webpages using semantic HTML5
 - Creating responsive layouts with CSS3
 - Practiced Flexbox and CSS positioning techniques
+- Integrating images and videos into webpages
 - Gained experience in recreating real-world website interfaces
 - Enhanced frontend development and UI design skills
 
